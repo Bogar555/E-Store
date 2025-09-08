@@ -1,0 +1,18 @@
+.watch_container{
+    background-color: bisque;
+    bottom: 10px;
+    border-radius: 10px;
+    position: relative;
+    top: 72px;
+    padding: 24px;
+}
+
+.slide-view-product {
+  display: flex;
+  height: 370px;
+  left: 2%;
+  width: 90%;
+  margin-top: -5%;
+  background-color: #f9fafb;
+  position: relative;
+}

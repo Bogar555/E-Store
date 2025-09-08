@@ -1,0 +1,8 @@
+.a-carousel{
+    pointer-events: auto;
+    max-height: 100px;
+    height: 100%;
+    width: 100%;
+    position: static;
+    background-color: #fff;
+}

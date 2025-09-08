@@ -1,0 +1,29 @@
+.disp_flex {
+  display: flex;
+}
+
+.width_90 {
+  width: 50%;
+}
+
+.cart_container {
+  width: 70%;
+  margin-left: 20%;
+}
+
+.cart_empty {
+  margin-top: 10%;
+  margin-left: 20%;
+}
+
+.bottom15{
+  margin-bottom: 15px;
+}
+
+.aligncenter{
+  text-align: center;
+}
+
+.dispflex{
+  display: flex;
+}

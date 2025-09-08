@@ -1,0 +1,28 @@
+.slide-img11{
+    top: -11px;
+    left: 19%;
+    width: 78vw;
+    height: 56vh;
+    position: relative;
+}
+.slideimg{
+    width: 78vw;
+    height: 45vh;
+}
+
+.headi1{
+    position: relative;
+    left: 20%;
+    top: -4px;
+    font-family: emoji;
+    font-weight: 100;
+    width: 75vw;
+}
+
+.headi2{
+    position: relative;
+    left: 20%;
+    top: -15px;
+    font-family: auto;
+    width: 75vw;
+}

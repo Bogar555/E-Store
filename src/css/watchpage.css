@@ -1,0 +1,67 @@
+.p-grid{
+    display: flex;
+}
+.image-container{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+.image{
+    width: 80%;
+    HEIGHT: 100%;
+}
+.image-container1{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+.tc{
+    color: #2874f0;
+}
+.tag{
+    width: 17px;
+}
+.p-wid-1{
+    display: flex;
+}
+.colorgreen{
+    color: green;
+    font-weight: 600;
+}
+.fullwidth{
+    width: 100%;
+    height: 6px;
+}
+
+.addcart{
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 600;
+    font-size: 1em !important;
+    line-height: 2.3em;
+    letter-spacing: 0px;
+    text-align: center;
+    vertical-align: middle;
+    background: rgb(255 216 20);;
+    height: 2.3em !important;
+    padding: 8px;
+    border-radius: 25px;
+    width: 47%;
+}
+
+.pro_price{
+    font-size: 3em;
+}
+
+.qtn_selection{
+    color: darkcyan;
+    font-weight: 600;
+}
+
+.color_red{
+    color: red;
+}
+
+.butn_container{
+    width: 76%;
+    text-align: center;
+}
